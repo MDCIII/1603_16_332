@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Port-au-Prince"@eng-Latn ,
         "Port-au-Prince"@fra-Latn ;
-    wdata:q7200235 "HT0111" ;
+    wdata:Q7200235 "HT0111" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -190,7 +190,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Miragoane"@eng-Latn ,
         "Miragoâne"@fra-Latn ;
-    wdata:q7200235 "HT1011" ;
+    wdata:Q7200235 "HT1011" ;
 .
 
 <urn:mdciii:1603:16:332:2:1012>
@@ -204,7 +204,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Petite Riviere de Nippes"@eng-Latn ,
         "Petite Rivière de Nippes"@fra-Latn ;
-    wdata:q7200235 "HT1012" ;
+    wdata:Q7200235 "HT1012" ;
 .
 
 <urn:mdciii:1603:16:332:2:1013>
@@ -218,7 +218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fonds des Negres"@eng-Latn ,
         "Fonds des Nègres"@fra-Latn ;
-    wdata:q7200235 "HT1013" ;
+    wdata:Q7200235 "HT1013" ;
 .
 
 <urn:mdciii:1603:16:332:2:1014>
@@ -232,7 +232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Paillant"@eng-Latn ,
         "Paillant"@fra-Latn ;
-    wdata:q7200235 "HT1014" ;
+    wdata:Q7200235 "HT1014" ;
 .
 
 <urn:mdciii:1603:16:332:2:1021>
@@ -246,7 +246,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anse-a-Veau"@eng-Latn ,
         "Anse-à-Veau"@fra-Latn ;
-    wdata:q7200235 "HT1021" ;
+    wdata:Q7200235 "HT1021" ;
 .
 
 <urn:mdciii:1603:16:332:2:1022>
@@ -260,7 +260,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Petit Trou de Nippes"@eng-Latn ,
         "Petit Trou de Nippes"@fra-Latn ;
-    wdata:q7200235 "HT1022" ;
+    wdata:Q7200235 "HT1022" ;
 .
 
 <urn:mdciii:1603:16:332:2:1023>
@@ -274,7 +274,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "L'Asile"@eng-Latn ,
         "L'Asile"@fra-Latn ;
-    wdata:q7200235 "HT1023" ;
+    wdata:Q7200235 "HT1023" ;
 .
 
 <urn:mdciii:1603:16:332:2:1024>
@@ -288,7 +288,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arnaud"@eng-Latn ,
         "Arnaud"@fra-Latn ;
-    wdata:q7200235 "HT1024" ;
+    wdata:Q7200235 "HT1024" ;
 .
 
 <urn:mdciii:1603:16:332:2:1025>
@@ -302,7 +302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Plaisance du Sud"@eng-Latn ,
         "Plaisance du Sud"@fra-Latn ;
-    wdata:q7200235 "HT1025" ;
+    wdata:Q7200235 "HT1025" ;
 .
 
 <urn:mdciii:1603:16:332:2:1031>
@@ -316,7 +316,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baraderes"@eng-Latn ,
         "Baradères"@fra-Latn ;
-    wdata:q7200235 "HT1031" ;
+    wdata:Q7200235 "HT1031" ;
 .
 
 <urn:mdciii:1603:16:332:2:1032>
@@ -330,7 +330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Grand-Boucan"@eng-Latn ,
         "Grand-Boucan"@fra-Latn ;
-    wdata:q7200235 "HT1032" ;
+    wdata:Q7200235 "HT1032" ;
 .
 
 <urn:mdciii:1603:16:332:2:112>
@@ -344,7 +344,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Delmas"@eng-Latn ,
         "Delmas"@fra-Latn ;
-    wdata:q7200235 "HT0112" ;
+    wdata:Q7200235 "HT0112" ;
 .
 
 <urn:mdciii:1603:16:332:2:113>
@@ -358,7 +358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Carrefour"@eng-Latn ,
         "Carrefour"@fra-Latn ;
-    wdata:q7200235 "HT0113" ;
+    wdata:Q7200235 "HT0113" ;
 .
 
 <urn:mdciii:1603:16:332:2:114>
@@ -372,7 +372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Petion-Ville"@eng-Latn ,
         "Pétion-Ville"@fra-Latn ;
-    wdata:q7200235 "HT0114" ;
+    wdata:Q7200235 "HT0114" ;
 .
 
 <urn:mdciii:1603:16:332:2:115>
@@ -386,7 +386,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kenscoff"@eng-Latn ,
         "Kenscoff"@fra-Latn ;
-    wdata:q7200235 "HT0115" ;
+    wdata:Q7200235 "HT0115" ;
 .
 
 <urn:mdciii:1603:16:332:2:116>
@@ -400,7 +400,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gressier"@eng-Latn ,
         "Gressier"@fra-Latn ;
-    wdata:q7200235 "HT0116" ;
+    wdata:Q7200235 "HT0116" ;
 .
 
 <urn:mdciii:1603:16:332:2:117>
@@ -414,7 +414,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cite Soleil"@eng-Latn ,
         "Cité Soleil"@fra-Latn ;
-    wdata:q7200235 "HT0117" ;
+    wdata:Q7200235 "HT0117" ;
 .
 
 <urn:mdciii:1603:16:332:2:118>
@@ -428,7 +428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tabarre"@eng-Latn ,
         "Tabarre"@fra-Latn ;
-    wdata:q7200235 "HT0118" ;
+    wdata:Q7200235 "HT0118" ;
 .
 
 <urn:mdciii:1603:16:332:2:121>
@@ -442,7 +442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Leogane"@eng-Latn ,
         "Léogâne"@fra-Latn ;
-    wdata:q7200235 "HT0121" ;
+    wdata:Q7200235 "HT0121" ;
 .
 
 <urn:mdciii:1603:16:332:2:122>
@@ -456,7 +456,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Petit-Goave"@eng-Latn ,
         "Petit-Goâve"@fra-Latn ;
-    wdata:q7200235 "HT0122" ;
+    wdata:Q7200235 "HT0122" ;
 .
 
 <urn:mdciii:1603:16:332:2:123>
@@ -470,7 +470,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Grand-Goave"@eng-Latn ,
         "Grand-Goâve"@fra-Latn ;
-    wdata:q7200235 "HT0123" ;
+    wdata:Q7200235 "HT0123" ;
 .
 
 <urn:mdciii:1603:16:332:2:131>
@@ -484,7 +484,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Croix-Des-Bouquets"@eng-Latn ,
         "Croix-Des-Bouquets"@fra-Latn ;
-    wdata:q7200235 "HT0131" ;
+    wdata:Q7200235 "HT0131" ;
 .
 
 <urn:mdciii:1603:16:332:2:132>
@@ -498,7 +498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thomazeau"@eng-Latn ,
         "Thomazeau"@fra-Latn ;
-    wdata:q7200235 "HT0132" ;
+    wdata:Q7200235 "HT0132" ;
 .
 
 <urn:mdciii:1603:16:332:2:133>
@@ -512,7 +512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ganthier"@eng-Latn ,
         "Ganthier"@fra-Latn ;
-    wdata:q7200235 "HT0133" ;
+    wdata:Q7200235 "HT0133" ;
 .
 
 <urn:mdciii:1603:16:332:2:134>
@@ -526,7 +526,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cornillon / Grand Bois"@eng-Latn ,
         "Cornillon / Grand Bois"@fra-Latn ;
-    wdata:q7200235 "HT0134" ;
+    wdata:Q7200235 "HT0134" ;
 .
 
 <urn:mdciii:1603:16:332:2:135>
@@ -540,7 +540,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fonds-Verrettes"@eng-Latn ,
         "Fonds-Verrettes"@fra-Latn ;
-    wdata:q7200235 "HT0135" ;
+    wdata:Q7200235 "HT0135" ;
 .
 
 <urn:mdciii:1603:16:332:2:141>
@@ -554,7 +554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arcahaie"@eng-Latn ,
         "Arcahaie"@fra-Latn ;
-    wdata:q7200235 "HT0141" ;
+    wdata:Q7200235 "HT0141" ;
 .
 
 <urn:mdciii:1603:16:332:2:142>
@@ -568,7 +568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cabaret"@eng-Latn ,
         "Cabaret"@fra-Latn ;
-    wdata:q7200235 "HT0142" ;
+    wdata:Q7200235 "HT0142" ;
 .
 
 <urn:mdciii:1603:16:332:2:151>
@@ -582,7 +582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anse a Galets"@eng-Latn ,
         "Anse à Galets"@fra-Latn ;
-    wdata:q7200235 "HT0151" ;
+    wdata:Q7200235 "HT0151" ;
 .
 
 <urn:mdciii:1603:16:332:2:152>
@@ -596,7 +596,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pointe a Raquette"@eng-Latn ,
         "Pointe à Raquette"@fra-Latn ;
-    wdata:q7200235 "HT0152" ;
+    wdata:Q7200235 "HT0152" ;
 .
 
 <urn:mdciii:1603:16:332:2:211>
@@ -610,7 +610,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jacmel"@eng-Latn ,
         "Jacmel"@fra-Latn ;
-    wdata:q7200235 "HT0211" ;
+    wdata:Q7200235 "HT0211" ;
 .
 
 <urn:mdciii:1603:16:332:2:212>
@@ -624,7 +624,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Marigot"@eng-Latn ,
         "Marigot"@fra-Latn ;
-    wdata:q7200235 "HT0212" ;
+    wdata:Q7200235 "HT0212" ;
 .
 
 <urn:mdciii:1603:16:332:2:213>
@@ -638,7 +638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cayes-Jacmel"@eng-Latn ,
         "Cayes-Jacmel"@fra-Latn ;
-    wdata:q7200235 "HT0213" ;
+    wdata:Q7200235 "HT0213" ;
 .
 
 <urn:mdciii:1603:16:332:2:214>
@@ -652,7 +652,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "La Vallee"@eng-Latn ,
         "La Vallée"@fra-Latn ;
-    wdata:q7200235 "HT0214" ;
+    wdata:Q7200235 "HT0214" ;
 .
 
 <urn:mdciii:1603:16:332:2:221>
@@ -666,7 +666,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bainet"@eng-Latn ,
         "Bainet"@fra-Latn ;
-    wdata:q7200235 "HT0221" ;
+    wdata:Q7200235 "HT0221" ;
 .
 
 <urn:mdciii:1603:16:332:2:222>
@@ -680,7 +680,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cotes de Fer"@eng-Latn ,
         "Côtes de Fer"@fra-Latn ;
-    wdata:q7200235 "HT0222" ;
+    wdata:Q7200235 "HT0222" ;
 .
 
 <urn:mdciii:1603:16:332:2:231>
@@ -694,7 +694,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Belle Anse"@eng-Latn ,
         "Belle Anse"@fra-Latn ;
-    wdata:q7200235 "HT0231" ;
+    wdata:Q7200235 "HT0231" ;
 .
 
 <urn:mdciii:1603:16:332:2:232>
@@ -708,7 +708,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Grand Gosier"@eng-Latn ,
         "Grand Gosier"@fra-Latn ;
-    wdata:q7200235 "HT0232" ;
+    wdata:Q7200235 "HT0232" ;
 .
 
 <urn:mdciii:1603:16:332:2:233>
@@ -722,7 +722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thiotte"@eng-Latn ,
         "Thiotte"@fra-Latn ;
-    wdata:q7200235 "HT0233" ;
+    wdata:Q7200235 "HT0233" ;
 .
 
 <urn:mdciii:1603:16:332:2:234>
@@ -736,7 +736,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anse-a-Pitre"@eng-Latn ,
         "Anse-à-Pître"@fra-Latn ;
-    wdata:q7200235 "HT0234" ;
+    wdata:Q7200235 "HT0234" ;
 .
 
 <urn:mdciii:1603:16:332:2:311>
@@ -750,7 +750,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cap-Haitien"@eng-Latn ,
         "Cap-Haïtien"@fra-Latn ;
-    wdata:q7200235 "HT0311" ;
+    wdata:Q7200235 "HT0311" ;
 .
 
 <urn:mdciii:1603:16:332:2:312>
@@ -764,7 +764,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quartier Morin"@eng-Latn ,
         "Quartier Morin"@fra-Latn ;
-    wdata:q7200235 "HT0312" ;
+    wdata:Q7200235 "HT0312" ;
 .
 
 <urn:mdciii:1603:16:332:2:313>
@@ -778,7 +778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Limonade"@eng-Latn ,
         "Limonade"@fra-Latn ;
-    wdata:q7200235 "HT0313" ;
+    wdata:Q7200235 "HT0313" ;
 .
 
 <urn:mdciii:1603:16:332:2:321>
@@ -792,7 +792,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Acul du Nord"@eng-Latn ,
         "Acul du Nord"@fra-Latn ;
-    wdata:q7200235 "HT0321" ;
+    wdata:Q7200235 "HT0321" ;
 .
 
 <urn:mdciii:1603:16:332:2:322>
@@ -806,7 +806,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Plaine du Nord"@eng-Latn ,
         "Plaine du Nord"@fra-Latn ;
-    wdata:q7200235 "HT0322" ;
+    wdata:Q7200235 "HT0322" ;
 .
 
 <urn:mdciii:1603:16:332:2:323>
@@ -820,7 +820,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Milot"@eng-Latn ,
         "Milot"@fra-Latn ;
-    wdata:q7200235 "HT0323" ;
+    wdata:Q7200235 "HT0323" ;
 .
 
 <urn:mdciii:1603:16:332:2:331>
@@ -834,7 +834,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Grande Riviere Du Nord"@eng-Latn ,
         "Grande Riviere Du Nord"@fra-Latn ;
-    wdata:q7200235 "HT0331" ;
+    wdata:Q7200235 "HT0331" ;
 .
 
 <urn:mdciii:1603:16:332:2:332>
@@ -848,7 +848,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bahon"@eng-Latn ,
         "Bahon"@fra-Latn ;
-    wdata:q7200235 "HT0332" ;
+    wdata:Q7200235 "HT0332" ;
 .
 
 <urn:mdciii:1603:16:332:2:341>
@@ -862,7 +862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saint-Raphael"@eng-Latn ,
         "Saint-Raphaël"@fra-Latn ;
-    wdata:q7200235 "HT0341" ;
+    wdata:Q7200235 "HT0341" ;
 .
 
 <urn:mdciii:1603:16:332:2:342>
@@ -876,7 +876,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dondon"@eng-Latn ,
         "Dondon"@fra-Latn ;
-    wdata:q7200235 "HT0342" ;
+    wdata:Q7200235 "HT0342" ;
 .
 
 <urn:mdciii:1603:16:332:2:343>
@@ -890,7 +890,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ranquitte"@eng-Latn ,
         "Ranquitte"@fra-Latn ;
-    wdata:q7200235 "HT0343" ;
+    wdata:Q7200235 "HT0343" ;
 .
 
 <urn:mdciii:1603:16:332:2:344>
@@ -904,7 +904,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pignon"@eng-Latn ,
         "Pignon"@fra-Latn ;
-    wdata:q7200235 "HT0344" ;
+    wdata:Q7200235 "HT0344" ;
 .
 
 <urn:mdciii:1603:16:332:2:345>
@@ -918,7 +918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "La Victoire"@eng-Latn ,
         "La Victoire"@fra-Latn ;
-    wdata:q7200235 "HT0345" ;
+    wdata:Q7200235 "HT0345" ;
 .
 
 <urn:mdciii:1603:16:332:2:351>
@@ -932,7 +932,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Borgne"@eng-Latn ,
         "Borgne"@fra-Latn ;
-    wdata:q7200235 "HT0351" ;
+    wdata:Q7200235 "HT0351" ;
 .
 
 <urn:mdciii:1603:16:332:2:352>
@@ -946,7 +946,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Port-Margot"@eng-Latn ,
         "Port-Margot"@fra-Latn ;
-    wdata:q7200235 "HT0352" ;
+    wdata:Q7200235 "HT0352" ;
 .
 
 <urn:mdciii:1603:16:332:2:361>
@@ -960,7 +960,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Limbe"@eng-Latn ,
         "Limbé"@fra-Latn ;
-    wdata:q7200235 "HT0361" ;
+    wdata:Q7200235 "HT0361" ;
 .
 
 <urn:mdciii:1603:16:332:2:362>
@@ -974,7 +974,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bas Limbe"@eng-Latn ,
         "Bas Limbé"@fra-Latn ;
-    wdata:q7200235 "HT0362" ;
+    wdata:Q7200235 "HT0362" ;
 .
 
 <urn:mdciii:1603:16:332:2:371>
@@ -988,7 +988,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Plaisance"@eng-Latn ,
         "Plaisance"@fra-Latn ;
-    wdata:q7200235 "HT0371" ;
+    wdata:Q7200235 "HT0371" ;
 .
 
 <urn:mdciii:1603:16:332:2:372>
@@ -1002,7 +1002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pilate"@eng-Latn ,
         "Pilate"@fra-Latn ;
-    wdata:q7200235 "HT0372" ;
+    wdata:Q7200235 "HT0372" ;
 .
 
 <urn:mdciii:1603:16:332:2:411>
@@ -1016,7 +1016,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fort-Liberte"@eng-Latn ,
         "Fort-Liberté"@fra-Latn ;
-    wdata:q7200235 "HT0411" ;
+    wdata:Q7200235 "HT0411" ;
 .
 
 <urn:mdciii:1603:16:332:2:412>
@@ -1030,7 +1030,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ferrier"@eng-Latn ,
         "Ferrier"@fra-Latn ;
-    wdata:q7200235 "HT0412" ;
+    wdata:Q7200235 "HT0412" ;
 .
 
 <urn:mdciii:1603:16:332:2:413>
@@ -1044,7 +1044,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Perches"@eng-Latn ,
         "Perches"@fra-Latn ;
-    wdata:q7200235 "HT0413" ;
+    wdata:Q7200235 "HT0413" ;
 .
 
 <urn:mdciii:1603:16:332:2:421>
@@ -1058,7 +1058,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ouanaminthe"@eng-Latn ,
         "Ouanaminthe"@fra-Latn ;
-    wdata:q7200235 "HT0421" ;
+    wdata:Q7200235 "HT0421" ;
 .
 
 <urn:mdciii:1603:16:332:2:422>
@@ -1072,7 +1072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Capotille"@eng-Latn ,
         "Capotille"@fra-Latn ;
-    wdata:q7200235 "HT0422" ;
+    wdata:Q7200235 "HT0422" ;
 .
 
 <urn:mdciii:1603:16:332:2:423>
@@ -1086,7 +1086,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mont-Organise"@eng-Latn ,
         "Mont-Organisé"@fra-Latn ;
-    wdata:q7200235 "HT0423" ;
+    wdata:Q7200235 "HT0423" ;
 .
 
 <urn:mdciii:1603:16:332:2:431>
@@ -1100,7 +1100,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trou du Nord"@eng-Latn ,
         "Trou du Nord"@fra-Latn ;
-    wdata:q7200235 "HT0431" ;
+    wdata:Q7200235 "HT0431" ;
 .
 
 <urn:mdciii:1603:16:332:2:432>
@@ -1114,7 +1114,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sainte Suzanne"@eng-Latn ,
         "Sainte Suzanne"@fra-Latn ;
-    wdata:q7200235 "HT0432" ;
+    wdata:Q7200235 "HT0432" ;
 .
 
 <urn:mdciii:1603:16:332:2:433>
@@ -1128,7 +1128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Terrier Rouge"@eng-Latn ,
         "Terrier Rouge"@fra-Latn ;
-    wdata:q7200235 "HT0433" ;
+    wdata:Q7200235 "HT0433" ;
 .
 
 <urn:mdciii:1603:16:332:2:434>
@@ -1142,7 +1142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Caracol"@eng-Latn ,
         "Caracol"@fra-Latn ;
-    wdata:q7200235 "HT0434" ;
+    wdata:Q7200235 "HT0434" ;
 .
 
 <urn:mdciii:1603:16:332:2:441>
@@ -1156,7 +1156,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vallieres"@eng-Latn ,
         "Vallières"@fra-Latn ;
-    wdata:q7200235 "HT0441" ;
+    wdata:Q7200235 "HT0441" ;
 .
 
 <urn:mdciii:1603:16:332:2:442>
@@ -1170,7 +1170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Carice"@eng-Latn ,
         "Carice"@fra-Latn ;
-    wdata:q7200235 "HT0442" ;
+    wdata:Q7200235 "HT0442" ;
 .
 
 <urn:mdciii:1603:16:332:2:443>
@@ -1184,7 +1184,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mombin Crochu"@eng-Latn ,
         "Mombin Crochu"@fra-Latn ;
-    wdata:q7200235 "HT0443" ;
+    wdata:Q7200235 "HT0443" ;
 .
 
 <urn:mdciii:1603:16:332:2:511>
@@ -1198,7 +1198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gonaives"@eng-Latn ,
         "Gonaïves"@fra-Latn ;
-    wdata:q7200235 "HT0511" ;
+    wdata:Q7200235 "HT0511" ;
 .
 
 <urn:mdciii:1603:16:332:2:512>
@@ -1212,7 +1212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ennery"@eng-Latn ,
         "Ennery"@fra-Latn ;
-    wdata:q7200235 "HT0512" ;
+    wdata:Q7200235 "HT0512" ;
 .
 
 <urn:mdciii:1603:16:332:2:513>
@@ -1226,7 +1226,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "L'Estere"@eng-Latn ,
         "L'Estère"@fra-Latn ;
-    wdata:q7200235 "HT0513" ;
+    wdata:Q7200235 "HT0513" ;
 .
 
 <urn:mdciii:1603:16:332:2:521>
@@ -1240,7 +1240,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gros Morne"@eng-Latn ,
         "Gros Morne"@fra-Latn ;
-    wdata:q7200235 "HT0521" ;
+    wdata:Q7200235 "HT0521" ;
 .
 
 <urn:mdciii:1603:16:332:2:522>
@@ -1254,7 +1254,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Terre Neuve"@eng-Latn ,
         "Terre Neuve"@fra-Latn ;
-    wdata:q7200235 "HT0522" ;
+    wdata:Q7200235 "HT0522" ;
 .
 
 <urn:mdciii:1603:16:332:2:523>
@@ -1268,7 +1268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anse Rouge"@eng-Latn ,
         "Anse Rouge"@fra-Latn ;
-    wdata:q7200235 "HT0523" ;
+    wdata:Q7200235 "HT0523" ;
 .
 
 <urn:mdciii:1603:16:332:2:531>
@@ -1282,7 +1282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saint-Marc"@eng-Latn ,
         "Saint-Marc"@fra-Latn ;
-    wdata:q7200235 "HT0531" ;
+    wdata:Q7200235 "HT0531" ;
 .
 
 <urn:mdciii:1603:16:332:2:532>
@@ -1296,7 +1296,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Verrettes"@eng-Latn ,
         "Verrettes"@fra-Latn ;
-    wdata:q7200235 "HT0532" ;
+    wdata:Q7200235 "HT0532" ;
 .
 
 <urn:mdciii:1603:16:332:2:533>
@@ -1310,7 +1310,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "La Chapelle"@eng-Latn ,
         "La Chapelle"@fra-Latn ;
-    wdata:q7200235 "HT0533" ;
+    wdata:Q7200235 "HT0533" ;
 .
 
 <urn:mdciii:1603:16:332:2:541>
@@ -1324,7 +1324,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dessalines"@eng-Latn ,
         "Dessalines"@fra-Latn ;
-    wdata:q7200235 "HT0541" ;
+    wdata:Q7200235 "HT0541" ;
 .
 
 <urn:mdciii:1603:16:332:2:542>
@@ -1338,7 +1338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Petite Riviere de l'Artibonite"@eng-Latn ,
         "Petite Rivière de l'Artibonite"@fra-Latn ;
-    wdata:q7200235 "HT0542" ;
+    wdata:Q7200235 "HT0542" ;
 .
 
 <urn:mdciii:1603:16:332:2:543>
@@ -1352,7 +1352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Grande Saline"@eng-Latn ,
         "Grande Saline"@fra-Latn ;
-    wdata:q7200235 "HT0543" ;
+    wdata:Q7200235 "HT0543" ;
 .
 
 <urn:mdciii:1603:16:332:2:544>
@@ -1366,7 +1366,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Desdunes"@eng-Latn ,
         "Desdunes"@fra-Latn ;
-    wdata:q7200235 "HT0544" ;
+    wdata:Q7200235 "HT0544" ;
 .
 
 <urn:mdciii:1603:16:332:2:551>
@@ -1380,7 +1380,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saint-Michel de l'Attalaye"@eng-Latn ,
         "Saint-Michel de l'Attalaye"@fra-Latn ;
-    wdata:q7200235 "HT0551" ;
+    wdata:Q7200235 "HT0551" ;
 .
 
 <urn:mdciii:1603:16:332:2:552>
@@ -1394,7 +1394,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Marmelade"@eng-Latn ,
         "Marmelade"@fra-Latn ;
-    wdata:q7200235 "HT0552" ;
+    wdata:Q7200235 "HT0552" ;
 .
 
 <urn:mdciii:1603:16:332:2:611>
@@ -1408,7 +1408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hinche"@eng-Latn ,
         "Hinche"@fra-Latn ;
-    wdata:q7200235 "HT0611" ;
+    wdata:Q7200235 "HT0611" ;
 .
 
 <urn:mdciii:1603:16:332:2:612>
@@ -1422,7 +1422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Maissade"@eng-Latn ,
         "Maïssade"@fra-Latn ;
-    wdata:q7200235 "HT0612" ;
+    wdata:Q7200235 "HT0612" ;
 .
 
 <urn:mdciii:1603:16:332:2:613>
@@ -1436,7 +1436,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thomonde"@eng-Latn ,
         "Thomonde"@fra-Latn ;
-    wdata:q7200235 "HT0613" ;
+    wdata:Q7200235 "HT0613" ;
 .
 
 <urn:mdciii:1603:16:332:2:614>
@@ -1450,7 +1450,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cerca Carvajal"@eng-Latn ,
         "Cerca Carvajal"@fra-Latn ;
-    wdata:q7200235 "HT0614" ;
+    wdata:Q7200235 "HT0614" ;
 .
 
 <urn:mdciii:1603:16:332:2:621>
@@ -1464,7 +1464,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mirebalais"@eng-Latn ,
         "Mirebalais"@fra-Latn ;
-    wdata:q7200235 "HT0621" ;
+    wdata:Q7200235 "HT0621" ;
 .
 
 <urn:mdciii:1603:16:332:2:622>
@@ -1478,7 +1478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saut d'Eau"@eng-Latn ,
         "Saut d'Eau"@fra-Latn ;
-    wdata:q7200235 "HT0622" ;
+    wdata:Q7200235 "HT0622" ;
 .
 
 <urn:mdciii:1603:16:332:2:623>
@@ -1492,7 +1492,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Boucan Carre"@eng-Latn ,
         "Boucan Carré"@fra-Latn ;
-    wdata:q7200235 "HT0623" ;
+    wdata:Q7200235 "HT0623" ;
 .
 
 <urn:mdciii:1603:16:332:2:631>
@@ -1506,7 +1506,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lascahobas"@eng-Latn ,
         "Lascahobas"@fra-Latn ;
-    wdata:q7200235 "HT0631" ;
+    wdata:Q7200235 "HT0631" ;
 .
 
 <urn:mdciii:1603:16:332:2:632>
@@ -1520,7 +1520,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Belladere"@eng-Latn ,
         "Belladère"@fra-Latn ;
-    wdata:q7200235 "HT0632" ;
+    wdata:Q7200235 "HT0632" ;
 .
 
 <urn:mdciii:1603:16:332:2:633>
@@ -1534,7 +1534,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Savanette"@eng-Latn ,
         "Savanette"@fra-Latn ;
-    wdata:q7200235 "HT0633" ;
+    wdata:Q7200235 "HT0633" ;
 .
 
 <urn:mdciii:1603:16:332:2:641>
@@ -1548,7 +1548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cerca La Source"@eng-Latn ,
         "Cerca La Source"@fra-Latn ;
-    wdata:q7200235 "HT0641" ;
+    wdata:Q7200235 "HT0641" ;
 .
 
 <urn:mdciii:1603:16:332:2:642>
@@ -1562,7 +1562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thomassique"@eng-Latn ,
         "Thomassique"@fra-Latn ;
-    wdata:q7200235 "HT0642" ;
+    wdata:Q7200235 "HT0642" ;
 .
 
 <urn:mdciii:1603:16:332:2:711>
@@ -1576,7 +1576,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Les Cayes"@eng-Latn ,
         "Les Cayes"@fra-Latn ;
-    wdata:q7200235 "HT0711" ;
+    wdata:Q7200235 "HT0711" ;
 .
 
 <urn:mdciii:1603:16:332:2:712>
@@ -1590,7 +1590,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Torbeck"@eng-Latn ,
         "Torbeck"@fra-Latn ;
-    wdata:q7200235 "HT0712" ;
+    wdata:Q7200235 "HT0712" ;
 .
 
 <urn:mdciii:1603:16:332:2:713>
@@ -1604,7 +1604,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chantal"@eng-Latn ,
         "Chantal"@fra-Latn ;
-    wdata:q7200235 "HT0713" ;
+    wdata:Q7200235 "HT0713" ;
 .
 
 <urn:mdciii:1603:16:332:2:714>
@@ -1618,7 +1618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Camp-Perrin"@eng-Latn ,
         "Camp-Perrin"@fra-Latn ;
-    wdata:q7200235 "HT0714" ;
+    wdata:Q7200235 "HT0714" ;
 .
 
 <urn:mdciii:1603:16:332:2:715>
@@ -1632,7 +1632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Maniche"@eng-Latn ,
         "Maniche"@fra-Latn ;
-    wdata:q7200235 "HT0715" ;
+    wdata:Q7200235 "HT0715" ;
 .
 
 <urn:mdciii:1603:16:332:2:716>
@@ -1646,7 +1646,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ile a Vache"@eng-Latn ,
         "Île à Vache"@fra-Latn ;
-    wdata:q7200235 "HT0716" ;
+    wdata:Q7200235 "HT0716" ;
 .
 
 <urn:mdciii:1603:16:332:2:721>
@@ -1660,7 +1660,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Port-Salut"@eng-Latn ,
         "Port-Salut"@fra-Latn ;
-    wdata:q7200235 "HT0721" ;
+    wdata:Q7200235 "HT0721" ;
 .
 
 <urn:mdciii:1603:16:332:2:722>
@@ -1674,7 +1674,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saint Jean du Sud"@eng-Latn ,
         "Saint Jean du Sud"@fra-Latn ;
-    wdata:q7200235 "HT0722" ;
+    wdata:Q7200235 "HT0722" ;
 .
 
 <urn:mdciii:1603:16:332:2:723>
@@ -1688,7 +1688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Arniquet"@eng-Latn ,
         "Arniquet"@fra-Latn ;
-    wdata:q7200235 "HT0723" ;
+    wdata:Q7200235 "HT0723" ;
 .
 
 <urn:mdciii:1603:16:332:2:731>
@@ -1702,7 +1702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aquin"@eng-Latn ,
         "Aquin"@fra-Latn ;
-    wdata:q7200235 "HT0731" ;
+    wdata:Q7200235 "HT0731" ;
 .
 
 <urn:mdciii:1603:16:332:2:732>
@@ -1716,7 +1716,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saint Louis du Sud"@eng-Latn ,
         "Saint Louis du Sud"@fra-Latn ;
-    wdata:q7200235 "HT0732" ;
+    wdata:Q7200235 "HT0732" ;
 .
 
 <urn:mdciii:1603:16:332:2:733>
@@ -1730,7 +1730,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cavaillon"@eng-Latn ,
         "Cavaillon"@fra-Latn ;
-    wdata:q7200235 "HT0733" ;
+    wdata:Q7200235 "HT0733" ;
 .
 
 <urn:mdciii:1603:16:332:2:741>
@@ -1744,7 +1744,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Coteaux"@eng-Latn ,
         "Côteaux"@fra-Latn ;
-    wdata:q7200235 "HT0741" ;
+    wdata:Q7200235 "HT0741" ;
 .
 
 <urn:mdciii:1603:16:332:2:742>
@@ -1758,7 +1758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Port-a-Piment"@eng-Latn ,
         "Port-à-Piment"@fra-Latn ;
-    wdata:q7200235 "HT0742" ;
+    wdata:Q7200235 "HT0742" ;
 .
 
 <urn:mdciii:1603:16:332:2:743>
@@ -1772,7 +1772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Roche a Bateau"@eng-Latn ,
         "Roche à Bâteau"@fra-Latn ;
-    wdata:q7200235 "HT0743" ;
+    wdata:Q7200235 "HT0743" ;
 .
 
 <urn:mdciii:1603:16:332:2:751>
@@ -1786,7 +1786,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chardonnieres"@eng-Latn ,
         "Chardonnières"@fra-Latn ;
-    wdata:q7200235 "HT0751" ;
+    wdata:Q7200235 "HT0751" ;
 .
 
 <urn:mdciii:1603:16:332:2:752>
@@ -1800,7 +1800,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Les Anglais"@eng-Latn ,
         "Les Anglais"@fra-Latn ;
-    wdata:q7200235 "HT0752" ;
+    wdata:Q7200235 "HT0752" ;
 .
 
 <urn:mdciii:1603:16:332:2:753>
@@ -1814,7 +1814,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tiburon"@eng-Latn ,
         "Tiburon"@fra-Latn ;
-    wdata:q7200235 "HT0753" ;
+    wdata:Q7200235 "HT0753" ;
 .
 
 <urn:mdciii:1603:16:332:2:811>
@@ -1828,7 +1828,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jeremie"@eng-Latn ,
         "Jérémie"@fra-Latn ;
-    wdata:q7200235 "HT0811" ;
+    wdata:Q7200235 "HT0811" ;
 .
 
 <urn:mdciii:1603:16:332:2:812>
@@ -1842,7 +1842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Abricots"@eng-Latn ,
         "Abricots"@fra-Latn ;
-    wdata:q7200235 "HT0812" ;
+    wdata:Q7200235 "HT0812" ;
 .
 
 <urn:mdciii:1603:16:332:2:813>
@@ -1856,7 +1856,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bonbon"@eng-Latn ,
         "Bonbon"@fra-Latn ;
-    wdata:q7200235 "HT0813" ;
+    wdata:Q7200235 "HT0813" ;
 .
 
 <urn:mdciii:1603:16:332:2:814>
@@ -1870,7 +1870,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Moron"@eng-Latn ,
         "Moron"@fra-Latn ;
-    wdata:q7200235 "HT0814" ;
+    wdata:Q7200235 "HT0814" ;
 .
 
 <urn:mdciii:1603:16:332:2:815>
@@ -1884,7 +1884,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chambellan"@eng-Latn ,
         "Chambellan"@fra-Latn ;
-    wdata:q7200235 "HT0815" ;
+    wdata:Q7200235 "HT0815" ;
 .
 
 <urn:mdciii:1603:16:332:2:821>
@@ -1898,7 +1898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anse d'Hainault"@eng-Latn ,
         "Anse d'Hainault"@fra-Latn ;
-    wdata:q7200235 "HT0821" ;
+    wdata:Q7200235 "HT0821" ;
 .
 
 <urn:mdciii:1603:16:332:2:822>
@@ -1912,7 +1912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dame Marie"@eng-Latn ,
         "Dame Marie"@fra-Latn ;
-    wdata:q7200235 "HT0822" ;
+    wdata:Q7200235 "HT0822" ;
 .
 
 <urn:mdciii:1603:16:332:2:823>
@@ -1926,7 +1926,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Les Irois"@eng-Latn ,
         "Les Irois"@fra-Latn ;
-    wdata:q7200235 "HT0823" ;
+    wdata:Q7200235 "HT0823" ;
 .
 
 <urn:mdciii:1603:16:332:2:831>
@@ -1940,7 +1940,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Corail"@eng-Latn ,
         "Corail"@fra-Latn ;
-    wdata:q7200235 "HT0831" ;
+    wdata:Q7200235 "HT0831" ;
 .
 
 <urn:mdciii:1603:16:332:2:832>
@@ -1954,7 +1954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Roseaux"@eng-Latn ,
         "Roseaux"@fra-Latn ;
-    wdata:q7200235 "HT0832" ;
+    wdata:Q7200235 "HT0832" ;
 .
 
 <urn:mdciii:1603:16:332:2:833>
@@ -1968,7 +1968,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Beaumont"@eng-Latn ,
         "Beaumont"@fra-Latn ;
-    wdata:q7200235 "HT0833" ;
+    wdata:Q7200235 "HT0833" ;
 .
 
 <urn:mdciii:1603:16:332:2:834>
@@ -1982,7 +1982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pestel"@eng-Latn ,
         "Pestel"@fra-Latn ;
-    wdata:q7200235 "HT0834" ;
+    wdata:Q7200235 "HT0834" ;
 .
 
 <urn:mdciii:1603:16:332:2:911>
@@ -1996,7 +1996,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Port-de-Paix"@eng-Latn ,
         "Port-de-Paix"@fra-Latn ;
-    wdata:q7200235 "HT0911" ;
+    wdata:Q7200235 "HT0911" ;
 .
 
 <urn:mdciii:1603:16:332:2:912>
@@ -2010,7 +2010,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "La Tortue"@eng-Latn ,
         "La Tortue"@fra-Latn ;
-    wdata:q7200235 "HT0912" ;
+    wdata:Q7200235 "HT0912" ;
 .
 
 <urn:mdciii:1603:16:332:2:913>
@@ -2024,7 +2024,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bassin Bleu"@eng-Latn ,
         "Bassin Bleu"@fra-Latn ;
-    wdata:q7200235 "HT0913" ;
+    wdata:Q7200235 "HT0913" ;
 .
 
 <urn:mdciii:1603:16:332:2:914>
@@ -2038,7 +2038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chamsolme"@eng-Latn ,
         "Chamsolme"@fra-Latn ;
-    wdata:q7200235 "HT0914" ;
+    wdata:Q7200235 "HT0914" ;
 .
 
 <urn:mdciii:1603:16:332:2:921>
@@ -2052,7 +2052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Saint-Louis du Nord"@eng-Latn ,
         "Saint-Louis du Nord"@fra-Latn ;
-    wdata:q7200235 "HT0921" ;
+    wdata:Q7200235 "HT0921" ;
 .
 
 <urn:mdciii:1603:16:332:2:922>
@@ -2066,7 +2066,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anse-a-Foleur"@eng-Latn ,
         "Anse-à-Foleur"@fra-Latn ;
-    wdata:q7200235 "HT0922" ;
+    wdata:Q7200235 "HT0922" ;
 .
 
 <urn:mdciii:1603:16:332:2:931>
@@ -2080,7 +2080,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mole Saint Nicolas"@eng-Latn ,
         "Môle Saint Nicolas"@fra-Latn ;
-    wdata:q7200235 "HT0931" ;
+    wdata:Q7200235 "HT0931" ;
 .
 
 <urn:mdciii:1603:16:332:2:932>
@@ -2094,7 +2094,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baie de Henne"@eng-Latn ,
         "Baie de Henne"@fra-Latn ;
-    wdata:q7200235 "HT0932" ;
+    wdata:Q7200235 "HT0932" ;
 .
 
 <urn:mdciii:1603:16:332:2:933>
@@ -2108,7 +2108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bombardopolis"@eng-Latn ,
         "Bombardopolis"@fra-Latn ;
-    wdata:q7200235 "HT0933" ;
+    wdata:Q7200235 "HT0933" ;
 .
 
 <urn:mdciii:1603:16:332:2:934>
@@ -2122,6 +2122,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jean Rabel"@eng-Latn ,
         "Jean Rabel"@fra-Latn ;
-    wdata:q7200235 "HT0934" ;
+    wdata:Q7200235 "HT0934" ;
 .
 

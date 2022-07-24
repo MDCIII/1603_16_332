@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "West"@eng-Latn ,
         "Ouest"@fra-Latn ,
         "Lwès"@hat-Latn ;
-    wdata:q7200235 "HT01" ;
+    wdata:Q7200235 "HT01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -60,7 +60,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nippes"@eng-Latn ,
         "Nippes"@fra-Latn ,
         "Nip"@hat-Latn ;
-    wdata:q7200235 "HT10" ;
+    wdata:Q7200235 "HT10" ;
 .
 
 <urn:mdciii:1603:16:332:1:2>
@@ -74,7 +74,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "South-East"@eng-Latn ,
         "Sud-Est"@fra-Latn ,
         "Sidès"@hat-Latn ;
-    wdata:q7200235 "HT02" ;
+    wdata:Q7200235 "HT02" ;
 .
 
 <urn:mdciii:1603:16:332:1:3>
@@ -88,7 +88,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "North"@eng-Latn ,
         "Nord"@fra-Latn ,
         "Nò"@hat-Latn ;
-    wdata:q7200235 "HT03" ;
+    wdata:Q7200235 "HT03" ;
 .
 
 <urn:mdciii:1603:16:332:1:4>
@@ -102,7 +102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "North-East"@eng-Latn ,
         "Nord-Est"@fra-Latn ,
         "Nòdès"@hat-Latn ;
-    wdata:q7200235 "HT04" ;
+    wdata:Q7200235 "HT04" ;
 .
 
 <urn:mdciii:1603:16:332:1:5>
@@ -116,7 +116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Artibonite"@eng-Latn ,
         "Artibonite"@fra-Latn ,
         "Latibonit"@hat-Latn ;
-    wdata:q7200235 "HT05" ;
+    wdata:Q7200235 "HT05" ;
 .
 
 <urn:mdciii:1603:16:332:1:6>
@@ -130,7 +130,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Centre"@eng-Latn ,
         "Centre"@fra-Latn ,
         "Sant"@hat-Latn ;
-    wdata:q7200235 "HT06" ;
+    wdata:Q7200235 "HT06" ;
 .
 
 <urn:mdciii:1603:16:332:1:7>
@@ -144,7 +144,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "South"@eng-Latn ,
         "Sud"@fra-Latn ,
         "Sid"@hat-Latn ;
-    wdata:q7200235 "HT07" ;
+    wdata:Q7200235 "HT07" ;
 .
 
 <urn:mdciii:1603:16:332:1:8>
@@ -158,7 +158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Grande'Anse"@eng-Latn ,
         "Grande'Anse"@fra-Latn ,
         "Grandans"@hat-Latn ;
-    wdata:q7200235 "HT08" ;
+    wdata:Q7200235 "HT08" ;
 .
 
 <urn:mdciii:1603:16:332:1:9>
@@ -172,6 +172,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "North-West"@eng-Latn ,
         "Nord-Ouest"@fra-Latn ,
         "Nòdwès"@hat-Latn ;
-    wdata:q7200235 "HT09" ;
+    wdata:Q7200235 "HT09" ;
 .
 
